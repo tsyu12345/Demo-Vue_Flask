@@ -1,0 +1,22 @@
+{
+  "name": "learning_vue3",
+  "version": "1.0.0",
+  "description": "BIPROGY IS用学習プロジェクト",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsyu12345/Learning_Vue3.git"
+  },
+  "author": "tsyu12345",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsyu12345/Learning_Vue3/issues"
+  },
+  "homepage": "https://github.com/tsyu12345/Learning_Vue3#readme",
+  "volta": {
+    "node": "18.16.0"
+  }
+}
